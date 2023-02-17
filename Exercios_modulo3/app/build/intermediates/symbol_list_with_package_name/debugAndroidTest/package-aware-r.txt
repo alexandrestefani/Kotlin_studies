@@ -1,0 +1,3 @@
+com.alexandrestefani.exercios_modulo3.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
