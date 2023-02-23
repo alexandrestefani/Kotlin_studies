@@ -39,7 +39,7 @@ fun main() {
     }
     print(array1[0])
     var mutableList: MutableList<Int> = mutableListOf()
-    //lista números divisíveis por 5
+    //lista números divisíveis por 3
     println("\n-----lista numeros dividos por 3 até 10")
     var cont = 0
     while (cont <10){
